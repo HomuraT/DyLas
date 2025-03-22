@@ -1,7 +1,3 @@
-
-
-[TOC]
-
 # Supplemental Material for DyLas: A Dynamic Label Alignment Strategy for Large-Scale Multi-Label Text Classification
 
 This is the supplemental material of our paper for reproducibility, including:
@@ -256,3 +252,16 @@ HF_ENDPOINT=https://hf-mirror.com python evaluate_llm_results_by_modes.py --data
 # Results(llama3.1-70b)
 
 **Note that, for easily reproduce the results, we provide the final results in the directory `./predictions` and the final results in the directory `./predictions`.**
+
+# Citation
+If you use our code in your research, please cite our work:
+```text
+@article{ren2025dylas,
+  title={DyLas: A dynamic label alignment strategy for large-scale multi-label text classification},
+  author={Ren, Lin and Liu, Yongbin and Ouyang, Chunping and Yu, Ying and Zhou, Shuda and He, Yidong and Wan, Yaping},
+  journal={Information Fusion},
+  pages={103081},
+  year={2025},
+  publisher={Elsevier}
+}
+```
