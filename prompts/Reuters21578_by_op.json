@@ -1,0 +1,5 @@
+{
+  "directly_predict": {
+  "content": "[Task Description]\nYou are an expert in text classification and information retrieval, specifically with experience in handling news articles datasets. You are now provided with a news article (subject) along with its attributes such as title, content, and metadata. Your goal is to categorize this news article into one or more categories (objects) based on its attributes.\n\n[Examples]\n{examples}\n\n[Task]\nText: \n{text}\n\n[Response]\n{previous_results}\n\n[Target]\nCheck if the results in response are correct. If correct, repeat the response, if not, output the correct results in the same format."
+  }
+}

@@ -1,0 +1,84 @@
+{
+     "openai": {
+          "url": "https://api.openai.com/v1",
+          "api_key": "key",
+          "model": "gpt-3.5-turbo",
+          "history": []
+     },"openai_512": {
+          "url": "https://api.openai.com/v1",
+          "api_key": "key",
+          "model": "gpt-3.5-turbo",
+          "history": [],
+          "max_tokens": 512
+     },
+     "api2d": {
+          "url": "https://openai.api2d.net/v1",
+          "api_key": "key",
+          "model": "gpt-3.5-turbo",
+          "history": []
+     },
+     "zpqy_3": {
+          "url": "https://open.bigmodel.cn/api/paas/v4",
+          "api_key": "key",
+          "model": "glm-3-turbo",
+          "history": []
+     },
+     "zpqy_4": {
+          "url": "https://open.bigmodel.cn/api/paas/v4",
+          "api_key": "key",
+          "model": "glm-4",
+          "history": []
+     },
+     "chatglm3_6b": {
+          "url": "http://localhost:7860/v1",
+          "api_key": "EMP.TY",
+          "model": "chatglm3_6b",
+          "history": []
+     },
+     "chatglm4_9b": {
+          "url": "http://127.0.0.1:8000/v1/",
+          "api_key": "EMPTY",
+          "model": "glm-4-9b",
+          "history": []
+     },"openai_4": {
+          "url": "https://api.openai.com/v1",
+          "api_key": "key",
+          "model": "gpt-4",
+          "history": []
+     },"gpt_4o_mini": {
+          "url": "https://api.openai.com/v1",
+          "api_key": "key",
+          "model": "gpt-4o-mini",
+          "history": []
+     }, "gpt_35": {
+          "url": "https://api.openai.com/v1",
+          "api_key": "key",
+          "model": "gpt-3.5-turbo",
+          "history": []
+     },"gpt_4o": {
+          "url": "https://api.openai.com/v1",
+          "api_key": "key",
+          "model": "gpt-4o",
+          "history": []
+     },"ollama_llama3_8b": {
+          "url": "http://localhost:11433/api/chat",
+          "api_key": "ollama",
+          "model": "llama3:latest",
+          "history": []
+     },"ollama_qwen_7b": {
+          "url": "http://localhost:11433/api/chat",
+          "api_key": "ollama",
+          "model": "qwen:7b-chat-v1.5-fp16",
+          "history": []
+     },"ollama_mistral_7b": {
+          "url": "http://localhost:11433/api/chat",
+          "api_key": "ollama",
+          "model": "mistral",
+          "history": []
+     },"baseline_ollama_llama3_1_70b": {
+          "url": "http://localhost:11433/api/chat",
+          "api_key": "ollama",
+          "model": "llama3.1:70b",
+          "history": []
+     }
+}

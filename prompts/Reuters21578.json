@@ -1,0 +1,8 @@
+{
+  "directly_predict": {
+  "content": "[Task Description]\nYou are an expert in text classification and information retrieval, specifically with experience in handling news articles datasets. You are now provided with a news article (subject) along with its attributes such as title, content, and metadata. Your goal is to categorize this news article into one or more categories (objects) based on its attributes.\n\n[Examples]\n{examples}\n\n[Task]\nText: \n{text}\n\n[Target]\nPlease generate a list of possible categories that complete the article's classification. Your response should include all relevant categories that can satisfy the given article's attributes. Ensure accuracy and relevancy in your classification, and follow the format of the example completely."
+  },
+  "CoT": {
+  "content": "[Task Description]\nYou are an expert in text classification and information retrieval, specifically with experience in handling news articles datasets. You are now provided with a news article (subject) along with its attributes such as title, content, and metadata. Your goal is to categorize this news article into one or more categories (objects) based on its attributes.\n\n[Examples]\n{examples}\n\n[Task]\nText: \n{text}\n\n[Target]\nPlease generate a list of possible categories that complete the article's classification. Your response should include all relevant categories that can satisfy the given article's attributes. Ensure accuracy and relevancy in your classification, and follow the format of the example completely. Let's think step by step:"
+  }
+}
