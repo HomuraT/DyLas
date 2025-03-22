@@ -1,6 +1,6 @@
 # Code for DyLas: A Dynamic Label Alignment Strategy for Large-Scale Multi-Label Text Classification
 
-This is the supplemental material of our paper for reproducibility, including:
+This is the supplemental material of our [paper](https://www.sciencedirect.com/science/article/pii/S156625352500154X) for reproducibility, including:
 
 # Requirements
 
