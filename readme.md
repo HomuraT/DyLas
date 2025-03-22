@@ -1,4 +1,4 @@
-# Supplemental Material for DyLas: A Dynamic Label Alignment Strategy for Large-Scale Multi-Label Text Classification
+# Code for DyLas: A Dynamic Label Alignment Strategy for Large-Scale Multi-Label Text Classification
 
 This is the supplemental material of our paper for reproducibility, including:
 
