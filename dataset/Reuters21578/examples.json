@@ -1,0 +1,16 @@
+{
+ "training/10005": {
+  "text": "U.K. GROWING IMPATIENT WITH JAPAN - THATCHER Prime Minister Margaret Thatcher said the U.K. Was growing more impatient with Japanese trade barriers and warned that it would soon have new powers against countries not offering reciprocal access to their markets. She told Parliament that the bid by the U.K.'s Cable and Wireless Plc &lt;CAWL.L> to enter the Japanese telecommunications market was being regarded by her government as a test case. \"I wrote to the prime minister of Japan, Mr Nakasone, on the fourth of March to express our interest on the Cable and Wireless bid. I have not yet had a reply. We see this as a test on how open the Japanese market really is,\" Thatcher said. Thatcher told Parliament that \"shortly ... We shall have more powers than we have now, when, for example the powers under the Financial Services Act and the Banking Act become available, then we shall be able to take action in cases where other countries do not offer the same full access to financial services as we do.\" Cable and Wireless is seeking a stake in the proposed Japanese telecommunications rival to Kokusai Denshin Denwa. But the Japanese minister for post and telecommunications was reported as saying that he opposed Cable and Wireless having a managerial role in the new company.  ",
+  "labels": [
+   "acq",
+   "trade"
+  ]
+ },
+ "training/10011": {
+  "text": "CANADA OIL EXPORTS RISE 20 PCT IN 1986 Canadian oil exports rose 20 pct in 1986 over the previous year to 33.96 mln cubic meters, while oil imports soared 25.2 pct to 20.58 mln cubic meters, Statistics Canada said. Production, meanwhile, was unchanged from the previous year at 91.09 mln cubic feet. Natural gas exports plunged 19.4 pct to 21.09 billion cubic meters, while Canadian sales slipped 4.1 pct to 48.09 billion cubic meters. The federal agency said that in December oil production fell 4.0 pct to 7.73 mln cubic meters, while exports rose 5.2 pct to 2.84 mln cubic meters and imports rose 12.3 pct to 2.1 mln cubic meters. Natural gas exports fell 16.3 pct in the month 2.51 billion cubic meters and Canadian sales eased 10.2 pct to 5.25 billion cubic meters.  ",
+  "labels": [
+   "nat-gas",
+   "crude"
+  ]
+ }
+}
